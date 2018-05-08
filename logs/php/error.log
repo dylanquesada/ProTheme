@@ -1,0 +1,11 @@
+[24-Apr-2018 15:42:07 UTC] PHP Parse error:  syntax error, unexpected '$myname' (T_VARIABLE) in /app/public/experiment.php on line 5
+[24-Apr-2018 15:42:19 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/experiment.php on line 5
+[24-Apr-2018 15:42:21 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /app/public/experiment.php on line 5
+[06-May-2018 02:38:59 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /app/public/wp-content/themes/twentyone/functions.php on line 7
+[06-May-2018 13:11:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/twentyone/index.php on line 14
+[06-May-2018 15:52:23 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/twentyone/index.php on line 14
+[06-May-2018 16:06:35 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/twentyone/index.php on line 16
+[06-May-2018 16:08:12 UTC] PHP Parse error:  syntax error, unexpected end of file in /app/public/wp-content/themes/twentyone/index.php on line 14
+[06-May-2018 16:54:18 UTC] PHP Parse error:  syntax error, unexpected 'university_main_styles' (T_STRING), expecting ',' or ')' in /app/public/wp-content/themes/twentyone/functions.php on line 5
+[06-May-2018 18:53:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /app/public/wp-content/themes/twentyone/index.php on line 4
+[07-May-2018 03:04:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in /app/public/wp-content/themes/twentyone/page.php on line 47
